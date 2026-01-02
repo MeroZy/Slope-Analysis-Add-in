@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Slope Analysis Addin</Name>
+		<Assembly>C:\Program Files\MeroZy\Revit Add-ins\Slope Analysis Revit Add-in\Slope Analysis Add-in.dll</Assembly>
+		<AddInId>4AFC4C5D-C22C-42C0-A599-4F077CACA693</AddInId>
+		<Vendor>Amr Khaled</Vendor>
+		<VendorId>AmrKhaled</VendorId>
+		<Description>My custom Revit add-in for Slope Analysis</Description>
+		<FullClassName>Slope_Analysis_Add_in.Revit.ExtApp</FullClassName>
+	</AddIn>
+</RevitAddIns>
