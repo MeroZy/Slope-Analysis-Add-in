@@ -3,6 +3,7 @@
 A Revit add-in for analyzing and visualizing floor slopes directly from geometry.  
 Designed for BIM workflows where accurate slope detection and quick visual feedback are essential.
 
+![Project Logo](Screenshots/SlopeAnalysis%20screenshot.png)
 ---
 
 ## 🔍 Overview
